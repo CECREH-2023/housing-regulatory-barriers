@@ -1,7 +1,10 @@
 # Citation and attribution
 
-Funding applications, partner correspondence, and funding strategy are excluded.
+When using this resource, cite the repository title, its URL, and the Git commit or release tag you used. The review date below describes this documentation version, not a journal publication date.
 
-For this code/resource snapshot, identify the repository title “Housing Regulatory Barriers Prototype,” its 2026-09-06 version date, and the final GitHub commit or release identifier used. Repository: https://github.com/CECREH-2023/housing-regulatory-barriers.
+- **Title:** Housing Regulatory Barriers Prototype
+- **Repository:** https://github.com/CECREH-2023/housing-regulatory-barriers
+- **Maintainer:** CECREH, Texas Tech University
+- **Documentation reviewed:** September 6, 2026
 
-Original author credits in source files are retained. Cite source datasets separately, following [data availability](data/README.md).
+Original source credits and license notices are retained. Cite the source datasets and any associated scholarly article separately; see [data sources and availability](data/README.md).

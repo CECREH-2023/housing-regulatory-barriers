@@ -8,10 +8,11 @@
       "errors": []
     },
     "text_hygiene": {
-      "files": 22,
+      "files": 25,
       "findings": []
     },
     "relative_document_links": {
+      "checked": 25,
       "broken": []
     }
   },
@@ -22,5 +23,11 @@
       "reason": "The prototype reads three processed/interim tables listed in data/INPUTS.json. download_data.py describes acquisition. Reference outputs are descriptive snapshots; their correlations do not identify the effect of a regulatory barrier."
     }
   ],
-  "license_file_present": false
+  "license_file_present": false,
+  "documentation_review": {
+    "date": "2026-09-06",
+    "scope": "README, methods, setup, data definitions, provenance, citation guidance, and configuration entry points checked against distributed files and available source evidence. Original scientific-check scope remains as recorded below.",
+    "command_targets_checked": 1,
+    "findings": []
+  }
 }

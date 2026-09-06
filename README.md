@@ -1,8 +1,6 @@
 # Housing Regulatory Barriers Prototype
 
-How can manufactured-housing restrictions and permit administration be measured using public records?
-
-A public-data acquisition and viability prototype. Current cross-sectional text supports descriptive coding; causal analysis would require dated policy changes and a separate design.
+This prototype brings together public permitting, housing, socioeconomic, hazard, and regulatory-text data to explore how housing restrictions could be measured. Its outputs describe available indicators and source coverage.
 
 ## Results and interpretation
 
@@ -14,19 +12,18 @@ This version does **not estimate a causal effect of regulatory barriers**. Dated
 
 - [Methods](docs/METHODS.md)
 - [Reproduction and dependencies](docs/REPRODUCING.md)
-- [Analysis source guide](docs/CODE_MAP.md)
+- [Source guide](docs/CODE_MAP.md)
 - [Data sources and availability](data/README.md)
+- [Technical reference notes](docs/reference/)
 
 ## Reproduce the work
 
-**Available reproduction:** Public-data prototype and descriptive reference tables; full acquisition remains to verify.
+Start with the [reproduction guide](docs/REPRODUCING.md) for the entry point, inputs, software, and validation limits.
 
-Start with `python scripts/check_package.py` to check the file manifest, then follow the [reproduction guide](docs/REPRODUCING.md). A file-integrity check does not rerun the research analysis. Acquisition and prototype code with selected summaries are included. Grant applications and internal funding strategy are excluded.
+**Scope:** Public-data prototype and descriptive reference tables; full acquisition remains to verify.
 
 ## Attribution and use
 
-Developed as a public-data research prototype at CECREH.
+Maintained by [CECREH at Texas Tech University](https://www.depts.ttu.edu/cecreh/). Documentation reviewed September 6, 2026. Cite the repository version you used; see [citation guidance](CITATION.md).
 
-A research resource from [CECREH at Texas Tech University](https://www.depts.ttu.edu/cecreh/). Snapshot: September 6, 2026. For code citation, use the repository URL and the commit identifier for the version you used; see [citation guidance](CITATION.md).
-
-No additional reuse license is granted by this snapshot. Contact the authors through CECREH about permissions; source-data terms apply separately.
+No reuse license is specified for this repository. Contact CECREH about permissions; source-data terms apply separately.

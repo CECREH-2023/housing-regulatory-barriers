@@ -1,6 +1,6 @@
 # Source guide
 
-Paths below refer to the distributed source. Analysis modules may require external inputs; inclusion does not imply the entire source workflow has been executed.
+Start with [REPRODUCING.md](REPRODUCING.md) for the supported entry point and its inputs. The modules below also include upstream preparation and supplementary analyses. Their presence does not establish that every stage is runnable from bundled data.
 
 | Module | Purpose |
 |---|---|

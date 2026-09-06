@@ -12,4 +12,8 @@ Acquire county permits, housing composition, socioeconomic measures, hazard indi
 
 Public housing, permit, socioeconomic, hazard, and regulatory-text sources.
 
-The prototype reads three processed/interim tables listed in data/INPUTS.json. download_data.py describes acquisition. Reference outputs are descriptive snapshots; their correlations do not identify the effect of a regulatory barrier.
+See [data availability](../data/README.md) for the release boundary and [the reproduction guide](REPRODUCING.md) for inputs, commands, and checks.
+
+## Technical notes
+
+- [Public data sources](reference/DATA_SOURCES.md)

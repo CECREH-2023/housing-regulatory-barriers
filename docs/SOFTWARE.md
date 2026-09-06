@@ -1,11 +1,5 @@
 # Software requirements
 
-The source pyproject/environment specification is retained where available. No new dependency lock was inferred from imports.
+Use a separate Python environment and install the profile shown in [REPRODUCING.md](REPRODUCING.md). That profile names the packages used by the documented statistical entry point. It is not a pinned environment for every acquisition, mapping, or sensitivity module.
 
-## Imported modules
-
-This static inventory includes standard-library, local, and optional modules. It is a navigation aid, not a pip installation list.
-
-`__future__`, `csv`, `dataclasses`, `datetime`, `html`, `json`, `pandas`, `pathlib`, `re`, `ssl`, `time`, `typing`, `urllib`
-
-The runtime and scope of checks actually performed are recorded in `../VALIDATION.json`.
+The commands and statistical checks actually executed are recorded in [VALIDATION.json](../VALIDATION.json). Installing a dependency specification alone does not demonstrate end-to-end reproduction.
