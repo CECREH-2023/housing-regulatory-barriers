@@ -1,0 +1,17 @@
+{
+  "scope": "Selected original-analysis entry point",
+  "required_inputs": [
+    {
+      "path": "data/processed/county_prototype_panel_2020_2025.csv",
+      "availability": "external; not bundled"
+    },
+    {
+      "path": "data/processed/zoning_text_term_counts.csv",
+      "availability": "external; not bundled"
+    },
+    {
+      "path": "data/interim/mhs_workbook_inventory.csv",
+      "availability": "external; not bundled"
+    }
+  ]
+}

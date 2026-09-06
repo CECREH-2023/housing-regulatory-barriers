@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-06",
+  "package": "housing-regulatory-barriers",
+  "reproduction_scope": "Public-data prototype and descriptive reference tables; full acquisition remains to verify.",
+  "checks": {
+    "python_syntax": {
+      "files": 4,
+      "errors": []
+    },
+    "text_hygiene": {
+      "files": 22,
+      "findings": []
+    },
+    "relative_document_links": {
+      "broken": []
+    }
+  },
+  "scientific_checks": [
+    {
+      "check": "Full original analysis",
+      "status": "not run",
+      "reason": "The prototype reads three processed/interim tables listed in data/INPUTS.json. download_data.py describes acquisition. Reference outputs are descriptive snapshots; their correlations do not identify the effect of a regulatory barrier."
+    }
+  ],
+  "license_file_present": false
+}

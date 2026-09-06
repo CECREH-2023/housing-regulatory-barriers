@@ -1,0 +1,7 @@
+source_id,jurisdiction,download_status,text_characters,manufactured_home,manufactured_housing,mobile_home,modular_home,hud_code,zoning,permit,specific_use,variance,foundation,inspection,site_plan,setback,age_limit,district_only
+tdlr_modular_before_buying,Texas,downloaded,9261,2,3,0,6,1,5,2,0,0,6,14,1,0,0,0
+dalhart_code_department,"Dalhart, TX",downloaded,6553,7,0,1,1,0,4,25,0,1,1,4,0,2,0,0
+burnet_cup_manufactured_home_sales,"Burnet, TX",downloaded,1730,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+trerc_modular_housing,Texas,downloaded,26514,1,5,0,23,0,1,5,0,0,6,6,0,0,0,0
+ecode360_hale_center_candidate,"Hale Center, TX",downloaded,13774,27,4,11,21,16,1,7,0,0,5,2,0,4,0,0
+municode_princeton_candidate,"Princeton, TX",weak_text,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

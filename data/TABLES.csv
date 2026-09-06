@@ -1,0 +1,6 @@
+path,rows,columns
+outputs/tables/high_mh_high_risk_candidate_counties_2025.csv,52,geoid | NAME | state_abbr | total_units | permits_per_1000_housing_units | mobile_home_share | RISK_SCORE | RISK_RATNG | SOVI_SCORE | SOVI_RATNG | RESL_SCORE | RESL_RATNG
+outputs/tables/prototype_correlation_smoke_test_2025.csv,2, | total_units | mobile_home_share | acs_median_household_income | acs_median_gross_rent | acs_median_home_value | RISK_SCORE | SOVI_SCORE | RESL_SCORE
+outputs/tables/state_year_permit_affordability_risk_summary.csv,66,state_abbr | year | counties | total_permitted_units | one_unit_permitted_units | multifamily_permitted_units | median_permits_per_1000_housing_units | median_mobile_home_share | median_risk_score
+outputs/tables/top_mobile_home_share_counties_2025.csv,50,geoid | NAME | state_abbr | county_name | total_units | permits_per_1000_housing_units | acs_total_housing_units | acs_mobile_home_units | mobile_home_share | RISK_SCORE | RISK_RATNG | SOVI_SCORE | RESL_SCORE
+outputs/tables/zoning_text_barrier_signal_summary.csv,6,source_id | jurisdiction | download_status | text_characters | manufactured_home | manufactured_housing | mobile_home | modular_home | hud_code | zoning | permit | specific_use | variance | foundation | inspection | site_plan | setback | age_limit | district_only
